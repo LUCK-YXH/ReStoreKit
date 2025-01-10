@@ -9,12 +9,6 @@ import Foundation
 import SwiftyStoreKit
 import TPInAppReceipt
 
-// StoreModel 需要根据实际产品信息实现
-public struct StoreModel {
-    let productID: String
-    let productName: String
-}
-
 // IAPManager 负责处理实际的 IAP 操作逻辑
 class IAPManager {
     static let shared = IAPManager()
