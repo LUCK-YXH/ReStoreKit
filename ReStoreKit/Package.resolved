@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ASN1Swift",
+        "repositoryURL": "https://github.com/tikhop/ASN1Swift",
+        "state": {
+          "branch": null,
+          "revision": "403cd95194e6a962e16db7c0d373d89fce83e0f7",
+          "version": "1.2.7"
+        }
+      },
+      {
+        "package": "SwiftyStoreKit",
+        "repositoryURL": "https://github.com/bizz84/SwiftyStoreKit.git",
+        "state": {
+          "branch": null,
+          "revision": "3b54c8eac2840b0cdd576634e83d9ebeb70f847c",
+          "version": "0.16.3"
+        }
+      },
+      {
+        "package": "TPInAppReceipt",
+        "repositoryURL": "https://github.com/tikhop/TPInAppReceipt.git",
+        "state": {
+          "branch": null,
+          "revision": "e135055eaeba5a52874b7f9b290f42890cbe981f",
+          "version": "3.4.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
